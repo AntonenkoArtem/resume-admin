@@ -203,8 +203,15 @@ body,html{ overflow: -moz-scrollbars-none; }
     background-color: #ea6f54 !important;
   }
   .bg-color-layer-3{
-    background-color: #ffa130 !important;
+    background-color: #ffc107 !important;
   }
+  .bg-color-layer-6{
+    background-color: #ff9800 !important;
+  }
+  .bg-color-layer-7{
+    background-color: #ff6f00 !important;
+  }
+
   .bg-color-layer-4{
   
   background: #5e0011 !important;
